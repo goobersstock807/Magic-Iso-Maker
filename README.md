@@ -210,4 +210,4 @@ Magic ISO Maker is available as a full free version, providing all features and 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-14 12:39:30 UTC
+**Last updated:** 2026-11-14 18:34:51 UTC
